@@ -13,7 +13,7 @@
 
 
 <div align="left">
-  <img src="imagem-readme.png" max-width="320px" width="200px" align="right">
+  <img src="imagem-readme.png" max-width="320px" width="200px" align="right" style="margin-right: 20px;">
   
  <span><strong>🚀 Estou estudando</strong></span><br>
 
