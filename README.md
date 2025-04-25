@@ -22,7 +22,7 @@
   
  <span><strong>📌 Upgrade por vir</strong></span>
 
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="24" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo" />
