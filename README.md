@@ -1,7 +1,7 @@
 ## Aline Luz ✨
 
 <div align="left">
-  <img src="imagem-readme.png" width="200px" align="right" style="margin-left: 20px;">
+  <img src="imagem-readme.png" max-width="350px" width="250px" align="right">
   <p>👩‍💻 Oi! Sou a Aline, iniciante em desenvolvimento Front-End.<br>
     <br>
      💻 Atualmente, estudo HTML e CSS, e estou começando minha jornada com JavaScript.<br>
