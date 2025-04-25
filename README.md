@@ -1,4 +1,4 @@
-## Olá! sou a Aline Luz! ✨
+## Olá! Sou a Aline Luz! ✨
 <br>
 <div align="left">
   <p>👩‍💻 Começando a construir minha base de conhecimento em desenvolvimento Front-End.<br>
@@ -9,8 +9,6 @@
 ---
 
 <br>
-
-
 
 <div align="left">
   <img src="imagem-readme.png" max-width="320px" width="200px" align="right" style="margin-right: 20px;">
