@@ -1,7 +1,7 @@
 ## Olá! Sou a Aline Luz! ✨
 <br>
 <div align="left">
-  <p>👩‍💻 Começando a construir minha base de conhecimento em desenvolvimento Front-End.<br>
+  <p>👩🏻‍💻 Começando a construir minha base de conhecimento em desenvolvimento Front-End.<br>
      💻 Atualmente, estudo HTML e CSS, e estou começando minha jornada com JavaScript.<br>
   </p>
 </div>
